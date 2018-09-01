@@ -3,7 +3,7 @@
 
 This site was developed to organize code projects and submit my math4610 homework to the course instructor.
 
-### Math 4610 Softwre Manuel and Homework
+### Math 4610 Software Manuel and Homework
 
 1. [Math 4610](https://gbmitchell.github.io/math4610/main)
 
