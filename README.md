@@ -3,11 +3,11 @@
 
 This site was developed to organize code projects and submit my math4610 homework to the course instructor.
 
-### Softwre Manuel and Homework
+### Math 4610 Softwre Manuel and Homework
 
 1. [Math 4610](https://gbmitchell.github.io/math4610/main)
 
 
 ### Voice Home Automation Project
 
-2. [Voice Home Automation Codes](https://gbmitchell.github.io/Voice-Home-Automation/main)
+2. [Voice Home Automation Code](https://gbmitchell.github.io/Voice-Home-Automation/main)
