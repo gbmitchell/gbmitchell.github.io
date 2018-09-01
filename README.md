@@ -10,4 +10,4 @@ This site was developed to organize code projects and submit my math4610 homewor
 
 ### Voice Home Automation Project
 
-2. [Voice Home Automation Codes](https://gbmitchell.github.io/Voice-Home-Automation/)
+2. [Voice Home Automation Codes](https://gbmitchell.github.io/Voice-Home-Automation/main)
