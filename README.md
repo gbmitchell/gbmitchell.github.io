@@ -5,9 +5,9 @@ This site was developed to organize code projects and submit my math4610 homewor
 
 ### Math 4610 Software Manuel and Homework
 
-1. [Math 4610](https://gbmitchell.github.io/math4610/main)
+- [Math 4610](https://gbmitchell.github.io/math4610/main)
 
 
 ### Voice Home Automation Project
 
-2. [Voice Home Automation Code](https://gbmitchell.github.io/Voice-Home-Automation/main)
+- [Voice Home Automation Code](https://gbmitchell.github.io/Voice-Home-Automation/main)
